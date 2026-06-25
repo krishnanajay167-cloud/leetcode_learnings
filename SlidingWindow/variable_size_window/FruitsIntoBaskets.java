@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int totalFruit(int[] fruits) {
         int left = 0;
